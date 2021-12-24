@@ -25,9 +25,9 @@ Les livrables sont :
 Sur Internet :
 
 Pour avoir accès à notre site Internet, il faut saisir l'une des adresses URL suivantes :
-	- http://rosflix.alwaysdata.net/
-	- http://rosplay.alwaysdata.net/projet/
-	- http://alex6mos.alwaysdata.net/projet/ 
+- http://rosflix.alwaysdata.net/
+- http://rosplay.alwaysdata.net/projet/
+- http://alex6mos.alwaysdata.net/projet/ 
 
 --------------------------------
 
